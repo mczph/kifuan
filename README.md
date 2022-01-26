@@ -1,10 +1,8 @@
-没什么好看的X_x
-
-[![Kifuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kifuan)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kifuan&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+摆烂
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kifuan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kifuan)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **kifuan/kifuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
