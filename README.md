@@ -1,5 +1,7 @@
 摆烂
 
+[Bilibili](https://space.bilibili.com/3817594970)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kifuan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kifuan)](https://github.com/anuraghazra/github-readme-stats)
