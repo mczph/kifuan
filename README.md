@@ -12,8 +12,8 @@
 
 QQ: 3156629810
 
-# Personal States
-**Currently working on another-c-script repository**
+# States
+**Currently working on the [another-c-script](https://github.com/kifuan/another-c-script) repository**
 
 <!--
 **kifuan/kifuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
