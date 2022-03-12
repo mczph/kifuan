@@ -10,7 +10,7 @@
 [Bilibili account](https://space.bilibili.com/381759497)
 
 
-QQ: 3156629810
+QQ 3156629810
 
 # States
 **Currently working on the [another-c-script](https://github.com/kifuan/another-c-script) repository**
