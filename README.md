@@ -1,10 +1,10 @@
-摆烂
-
 [Bilibili](https://space.bilibili.com/381759497)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kifuan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://count.getloli.com/get/@kifuan">
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kifuan)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kifuan)](https://github.com/anuraghazra/github-readme-stats)
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kifuan&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **kifuan/kifuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
