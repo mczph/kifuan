@@ -8,11 +8,6 @@
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kifuan&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-# Developing Repositories
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kifuan&repo=another-c-script)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kifuan&repo=dymethod)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **kifuan/kifuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
