@@ -2,7 +2,7 @@
 
 <img src="https://count.getloli.com/get/@kifuan">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kifuan&exclude_repo=nattus)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kifuan)](https://github.com/anuraghazra/github-readme-stats)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kifuan&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
