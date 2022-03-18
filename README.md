@@ -1,19 +1,23 @@
-# Github States
+## Welcome! 👋
 
 <img src="https://count.getloli.com/get/@kifuan">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kifuan)](https://github.com/anuraghazra/github-readme-stats)
+## Preferred Languages & Frameworks
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kifuan&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" /></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c" /></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" /></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" /></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" alt="javascript" /></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="javascript" /></code>
 
-# My Accounts
-[Bilibili account](https://space.bilibili.com/381759497)
+## States
 
+<img width="425" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kifuan&layout=compact">
+<img width="425" src="https://github-readme-stats.vercel.app/api?username=kifuan&show_icons=true">
 
-QQ 3156629810
-
-# States
-**Currently working on the [another-c-script](https://github.com/kifuan/another-c-script) repository**
+## Accounts
++ My Bilibili: [https://space.bilibili.com/381759497](https://space.bilibili.com/381759497)
 
 <!--
 **kifuan/kifuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
