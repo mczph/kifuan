@@ -16,9 +16,6 @@
 <img width="425" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kifuan&layout=compact">
 <img width="425" src="https://github-readme-stats.vercel.app/api?username=kifuan&show_icons=true">
 
-## Accounts
-+ My Bilibili: [https://space.bilibili.com/381759497](https://space.bilibili.com/381759497)
-
 <!--
 **kifuan/kifuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
