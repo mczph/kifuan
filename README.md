@@ -17,8 +17,8 @@ Spring Boot, Vue.js
 
 ## States
 
-<img width="425" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kifuan&layout=compact">
-<img width="425" src="https://github-readme-stats.vercel.app/api?username=kifuan&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kifuan&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=kifuan&show_icons=true">
 
 <!--
 **kifuan/kifuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
