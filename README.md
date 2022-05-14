@@ -3,7 +3,7 @@
 <img src="https://count.getloli.com/get/@kifuan">
 
 ## Blogs
-http://kifuan.top
+https://kifuan.top
 
 ## Preferred Languages & Frameworks
 
