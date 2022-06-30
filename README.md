@@ -1,6 +1,6 @@
 ## Welcome! 👋
 
-<img src="https://count.getloli.com/get/@kifuan">
+![kifuan](https://count.getloli.com/get/@kifuan?theme=gelbooru)
 
 ## Blogs
 https://kifuan.top
